@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@500&family=DM+Serif+Display&family=Gentium+Book+Plus:ital@1&family=Libre+Baskerville:wght@700&display=swap');
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+ font-family: 'DM Serif Display', serif;
+background-color: rgb(179, 160, 197);
+height: 100%;
+width: 100%;
+}
+.container{
+    text-align: center;
+    padding-top: 100px;
+    position: absolute;
+    color: purple;
+    padding-left: 370px;
+    padding-top:150px ;
+}
+.pic{
+     height:100%;
+     width:100%;
+     position: absolute;
+     text-align: center;
+    }
+#title{
+      font-size: 4.8em;
+}
+#heading{
+    padding-top: 30px;
+    font-size: 3em;
+}
+.input-container{
+    padding-top: 40px;
+}
+#textLabel{
+    font-size: 3em;  
+}
+#textBox {
+    height: 30px;
+    width: 180px;
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size:2em ;
+}
+#checkButton{
+    font-size: 2em;
+    background-color: rgb(137, 132, 143);
+    color: rgb(62, 7, 70);
+    margin-top: 30px;
+}
+.al{
+    font-size: 2em;   
+}
+.ac{
+    font-size: 1em;
+}
+.att{
+    padding-top: 30px;
+}
+#win{
+    height:100%;
+     width:100%;
+     position: absolute;  
+   }
+#lose{
+    height:100%;
+     width:100%;
+     position: absolute;  
+}
